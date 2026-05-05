@@ -1,4 +1,3 @@
-<img width="1408" height="768" alt="Gemini_Generated_Image_80orth80orth80or" src="https://github.com/user-attachments/assets/ef28e6d2-2d38-412e-a064-47a01dadc7db" />
 
 # 🌍 Country Clustering using Unsupervised Learning
 
